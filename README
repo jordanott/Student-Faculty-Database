@@ -1,0 +1,16 @@
+README
+
+Creates a database for both students and faculty members
+Each Student has ID, name, major, grade level and a faculty advisor
+Each Faculty has ID, name, level and a list of students they advise
+Gives user ability to add/remove/edit members in their respective trees
+maintains referential integrity between student and faculty 
+
+
+References:
+http://stackoverflow.com/questions/8018686/binary-search-tree-destructor
+
+http://stackoverflow.com/questions/18728754/checking-input-value-is-an-integer
+
+http://www.tutorialspoint.com/cplusplus/input_output_operators_overloading.htm
+
